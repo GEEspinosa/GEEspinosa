@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GEEspinosa</h1>
 <h3 align="center">A full-stack web developer in-the-making from Portland, OR</h3>
 
-- 🌱 I’m currently learning **JavaScript fundamentals, React, Node.js, SQLite, and data structures and algorithms**
+- 🌱 I’m currently learning **JavaScript fundamentals, React, Node.js, SQLite, and data structures and algorithms.**
 
 - ⚡ Fun fact **I record local metal bands and snap film photos when I'm not studying web dev.**
 
