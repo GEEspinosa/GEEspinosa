@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GEEspinosa</h1>
-<h3 align="center">A full-stack web developer from Portland, OR</h3>
+<h3 align="center">A full stack web developer from Portland, OR</h3>
 
 - 🌱 I’m currently learning **JavaScript fundamentals and React.**
 
